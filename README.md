@@ -7,7 +7,7 @@
   Projects I'm (not really) working on:
   
         - Chess engine 
-        - Algorithmic trading through random analysis (this is not as complicated as it sounds)
+        - Algorithmic trading methods (this is mostly for fun unless I actually make money lol)
 
   I use C++ because it's popular for competitive stuff (strong standard libraries, not verbose - looking at you java, and very fast in general), but I have experience in Java and   Python.
 
