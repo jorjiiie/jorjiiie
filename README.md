@@ -5,6 +5,7 @@
   Currently I'm doing a lot of competitive programming on many different websites like Codeforces and Atcoder (I'm not very good), and I have dabbled in Project Euler but my math skills are currently   not quite good enough to do a respectable amount.
   
   Projects I'm (not really) working on:
+  
         - Chess engine 
         - Algorithmic trading through random analysis (this is not as complicated as it sounds)
 
