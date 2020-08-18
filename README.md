@@ -1,16 +1,13 @@
-### Hi there 👋
+  I'm a high school student who's interested in a lot of things.
 
-<!--
-**jorjiiie/jorjiiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm interested by algorithms and computational mathematics, and although math is not my strongest suit, it's very fun to make observations and make problems solvable with code. 
+  
+  Currently I'm doing a lot of competitive programming on many different websites like Codeforces and Atcoder, and I have dabbled in Project Euler but my math skills are currently   not quite good enough to do a respectable amount.
+  
+  Projects I'm (not really) working on:
+        - Chess engine 
+        - Algorithmic trading through random analysis (this is not as complicated as it sounds)
 
-Here are some ideas to get you started:
+  I use C++ because it's popular for competitive stuff (strong standard libraries, not verbose - looking at you java, and very fast in general), but I have experience in Java and   Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
